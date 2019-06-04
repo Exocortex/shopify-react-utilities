@@ -3,7 +3,7 @@
     "name": "Shopify Inc."
   },
   "dependencies": {
-    "@shopify/javascript-utilities": "^2.1.0",
+    "@threekit/shopify-javascript-utilities": "^2.4.1-threekit.1",
     "@types/classnames": "^2.2.3",
     "classnames": "^2.2.5"
   },
