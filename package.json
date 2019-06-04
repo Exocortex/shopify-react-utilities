@@ -97,5 +97,5 @@
     "test:watch": "yarn test --watch",
     "ts": "tsc --noEmit"
   },
-  "version": "2.0.8-threekit.3"
+  "version": "2.0.8-threekit.4"
 }
